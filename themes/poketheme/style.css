@@ -9,3 +9,11 @@ Requires PHP: 7.0
 Version: 1.0
 Text Domain: poketheme
 */
+
+.my-logo {
+    img {
+        padding: 0 7px;
+    }
+    display: flex;
+    background-color: aquamarine;
+}

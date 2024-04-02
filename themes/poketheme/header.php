@@ -11,7 +11,7 @@
         <header class="my-logo">
             <h1>
                 <a href="<?php echo esc_url( home_url( '/' ) ); ?>">
-                    <img src="<?php echo get_template_directory_uri(); ?>/Images/logo.png" alt="Site Logo" width="120px" height="120px">
+                    <img src="<?php echo get_template_directory_uri(); ?>/Images/logo.png" alt="Site Logo" width="60px" height="60px">
                 </a>
             </h1>
         </header>
